@@ -1,0 +1,41 @@
+body {
+	font-family: 'Montserrat', sans-serif;
+	background-color:#E5E5E5;
+	padding: 40px ;
+}
+.wrapper {
+	display: flex;
+	flex-direction: row-reverse;
+	background: floralwhite;
+	width: 1200px;
+	margin: 0 auto;
+}
+/* Main content */
+.main content {
+	}
+/* About me */
+.my profession {
+		margin-bottom: 18px;
+		
+}
+h2 {
+	font-size: 35px;
+}
+.project-item {
+		background-color: yellow;
+}
+/* sidebar */
+.sidebar {
+	width: 370px;
+	background: #E5E5E5;
+}
+
+.my foto {
+	margin-top: 40px;
+}
+.contacts-container, .tech skills-container, .soft skills-container{
+	margin: 48px 0 0 40px;
+}
+.sidebar-title {
+	
+}
